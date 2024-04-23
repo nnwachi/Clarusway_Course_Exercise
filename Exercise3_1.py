@@ -1,4 +1,4 @@
-letter = "c"
+letter = "s"
 
 a = 'this is a vowel' # a,e,i,o,u
 b = 'this is not a vowel' 
